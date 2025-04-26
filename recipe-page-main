@@ -1,0 +1,11 @@
+<script>start("c:\\Users\\ali\\Downloads\\recipe-page-main\\recipe-page-main\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("assets","assets",1,0,"0 B",1745640007,"4/26/25, 9:00:07 AM");</script>
+<script>addRow("design","design",1,0,"0 B",1745640007,"4/26/25, 9:00:07 AM");</script>
+<script>addRow(".gitignore",".gitignore",0,547,"547 B",1745640007,"4/26/25, 9:00:07 AM");</script>
+<script>addRow("index.html","index.html",0,2467,"2.4 kB",1745643258,"4/26/25, 9:54:18 AM");</script>
+<script>addRow("preview.jpg","preview.jpg",0,78553,"76.7 kB",1745640007,"4/26/25, 9:00:07 AM");</script>
+<script>addRow("README-template.md","README-template.md",0,4478,"4.4 kB",1745640007,"4/26/25, 9:00:07 AM");</script>
+<script>addRow("README.md","README.md",0,6268,"6.1 kB",1745640007,"4/26/25, 9:00:07 AM");</script>
+<script>addRow("style-guide.md","style-guide.md",0,1133,"1.1 kB",1745640007,"4/26/25, 9:00:07 AM");</script>
+<script>addRow("styles.css","styles.css",0,1556,"1.5 kB",1745643687,"4/26/25, 10:01:27 AM");</script>
